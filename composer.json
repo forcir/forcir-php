@@ -1,0 +1,7 @@
+{
+  "name": "forcir/forcir",
+  "description": "Forcir API Wrapper for PHP",
+  "require": {
+    "php": ">=7.4"
+  }
+}
