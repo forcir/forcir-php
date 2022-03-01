@@ -1,9 +1,9 @@
-<p align="center"><!-- Used to apply a top margin in markdown --></p>
+<p align="center"></p>
 <div align="center">
   <a href="https://www.forcir.com/#gh-light-mode-only" target="_blank">
     <img src="https://cdn.forcir.com/logos/slate.svg" alt="Forcir Logo" height="30">
   </a>
-  <a href="https://www.forcir.com/#gh-slate-mode-only" target="_blank">
+  <a href="https://www.forcir.com/#gh-dark-mode-only" target="_blank">
     <img src="https://cdn.forcir.com/logos/common.svg" alt="Forcir Logo" height="30">
   </a>
 </div>
